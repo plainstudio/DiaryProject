@@ -8,15 +8,15 @@ JavaSE 개인 프로젝트
 << 1 메모등록 기능 >>
 
 [ DB ] 
-- ConnectionManager 클래스를 정의하여 db연결, 접속객체 획득, 반납 처리
+- ConnectionManager 클래스를 정의하여 DB연결, 접속객체 획득, 반납 처리
 
 [ 공통 디자인 ]
 
-- java awt swing 컴포넌트의 사용
-- layout manager 이용한 ui 컴포넌트 배치
+- Java AWT Swing 컴포넌트의 사용
+- LayoutManager 이용한 UI 컴포넌트 배치
 
 [ 이벤트 처리 ]
-- eventListener 및 adapter를 이용한 이벤트 처리
+- EventListener 및 Adapter를 이용한 이벤트 처리
 - 코드의 간결성을 위한 내부 익명 클래스 기반의 이벤트 처리
 
 [ 공통 컴포넌트 ]
@@ -32,14 +32,13 @@ JavaSE 개인 프로젝트
 << 2 검색 기능 >>
 
 [ 검색 기능 처리 ]
-- like문을 이용한 검색 처리
+- Like문을 이용한 검색 처리
 - 오라클의 문자관련 함수 적용
 
 <img width="70%" src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTI3/MDAxNTU3MjQ1NzgzNTYx.-ojDBt5KiBreaetW-z0DASkOd-gqmYUhFDiEcQssXdcg.xax0Kl3r7lVErTesOtuFAh3kspw0TDTu4YMmMsiqOoMg.PNG.kwjing93/MyMoney_Diary4.png?type=w966">
 
 << 3 폴더생성 기능 >>
 
-[ 처리 ]
-- JTree 클래스를 사용하여 folder 구조 표현
+- JTree 클래스를 사용하여 구조 표현
 - InputDialog와 MessageDialog를 활용한 유저 알림
 
