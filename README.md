@@ -31,7 +31,7 @@ JavaSE 개인 프로젝트
 - (1) Like문을 이용한 검색 처리
 - 오라클의 문자관련 함수 적용
 
-<img width="70%" src="https://postfiles.pstatic.net/MjAxOTA1MTJfNjkg/MDAxNTU3NjQ3NzEzMzA1.Abb6RRah7nixqP4_YkaI-IRUgjM3QdFDhaGAe0_XfCYg.Zll9aiLfHzRsPZYiXVmhAKuBHvgMXz8mHr9PyPB04Bkg.PNG.kwjing93/MyMoney_Diary4-1(0512).png?type=w9666">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfNjkg/MDAxNTU3NjQ3NzEzMzA1.Abb6RRah7nixqP4_YkaI-IRUgjM3QdFDhaGAe0_XfCYg.Zll9aiLfHzRsPZYiXVmhAKuBHvgMXz8mHr9PyPB04Bkg.PNG.kwjing93/MyMoney_Diary4-1(0512).png?type=w966">
 
 [ 폴더 생성 기능 처리 ]
 
