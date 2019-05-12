@@ -5,8 +5,6 @@ JavaSE 개인 프로젝트
 
 <img src="https://blogfiles.pstatic.net/MjAxOTA1MDhfMTY1/MDAxNTU3MzIyNzM5NjM5.iaSnZ08mRGqUuXQbZ-AmYvrQkTUka9ldIYGAb_L4j88g.2reX5HIZeYTlnyq9lSeHvciNLe2M3nlCSDkVNW7G7N4g.PNG.kwjing93/MyMoney_Diary2-1.png">
 
-<< 1 메모등록 기능 >>
-
 [ DB ] 
 - ConnectionManager 클래스를 정의하여 DB연결, 접속객체 획득, 반납 처리
 
@@ -25,20 +23,18 @@ JavaSE 개인 프로젝트
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMjI4/MDAxNTU3MzIyNzUxNTMx.exg0ZPO1IMaoFOmLWv1ZH9PeXDTcPYHuFznuutO-3fkg.I0kKp-4hWpxK2Xay8WGgerbQsth8EPVsPKom_nzkwl8g.PNG.kwjing93/MyMoney_Diary2-2.png?type=w966">
 
 [ 일당 계산 처리 ]
-- 사용자가 입력한 시간 기준 일당 계산 로직을 처리하는 메서드 정의
+- (1) 사용자가 입력한 시간 기준 일당 계산 로직을 처리하는 메서드 정의
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM5/MDAxNTU3MjQ1NzgxMjMy.FfC_ICBjIX6EtBwGJUPkZmo0v0cEIL13U16H9e3rcYQg.g5r8WUH2TLRIxbfdiNRwU05hJfHKh0eRHd99vM4L_0og.PNG.kwjing93/MyMoney_Diary3.png?type=w966">
 
-<< 2 검색 기능 >>
-
 [ 검색 기능 처리 ]
-- Like문을 이용한 검색 처리
+- (1) Like문을 이용한 검색 처리
 - 오라클의 문자관련 함수 적용
 
 <img width="70%" src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTI3/MDAxNTU3MjQ1NzgzNTYx.-ojDBt5KiBreaetW-z0DASkOd-gqmYUhFDiEcQssXdcg.xax0Kl3r7lVErTesOtuFAh3kspw0TDTu4YMmMsiqOoMg.PNG.kwjing93/MyMoney_Diary4.png?type=w966">
 
-<< 3 폴더생성 기능 >>
+[ 폴더 생성 기능 처리 ]
 
-- JTree 클래스를 사용하여 구조 표현
-- InputDialog와 MessageDialog를 활용한 유저 알림
+- (1) JTree 클래스를 사용하여 구조 표현
+- (2) InputDialog와 MessageDialog를 활용한 유저 알림
 
